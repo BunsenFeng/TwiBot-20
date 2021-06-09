@@ -8,3 +8,6 @@ The affiliated paper of this repository, 'TwiBot-20: A Novel Twitter Bot Detecti
 
 #### TwiBot-20 Sample
 We provide an example of Twibot-20 in 'TwiBot-20_sample.json'. If you want to download and use the whole dataset, please contact us via email xxx@yy.com to obtain permission due to privacy issues.(currently anonymous for that the paper is under review)
+
+#### Full TwiBot-20 Dataset
+If you are interested in using the dataset, please contact abc@gmail.com to obtain permission to download the dataset for research efforts only. Due to privacy issues, we are not directly posting the dataset, but for reviewers at CIKM'21, feel free to download the full TwiBot-20 at www.xxyyzz.com.
