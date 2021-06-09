@@ -9,5 +9,13 @@ The affiliated paper of this repository, 'TwiBot-20: A Novel Twitter Bot Detecti
 #### TwiBot-20 Sample
 We provide an example of Twibot-20 in 'TwiBot-20_sample.json'. 
 
+Each user sample contains:
+- 'ID': the ID from Twitter identifying the user.
+- 'profile': the profile information obtained from Twitter API.
+- 'tweet': the recent 200 tweets of this user.
+- 'neighbor': the random 20 followers and followings of this user.
+- 'domain': the domain of this user and the domains include politics, business, entertainment and sports.
+- 'label': the label of this user and '1' means it is a bot while '0' means it is a human.
+
 #### Full TwiBot-20 Dataset
 If you are interested in using the dataset, please contact abc@gmail.com to obtain permission to download the dataset for research efforts only. Due to privacy issues, we are not directly posting the dataset, but for reviewers at CIKM'21, feel free to download the full TwiBot-20 at www.xxyyzz.com.
