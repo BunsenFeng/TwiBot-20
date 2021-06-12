@@ -18,4 +18,4 @@ Each user sample contains:
 - 'label': the label of this user and '1' means it is a bot while '0' means it is a human.
 
 #### Full TwiBot-20 Dataset
-If you are interested in using the dataset, please contact wind_binteng at stu.xjtu.edu.cn to obtain permission to download the dataset for research efforts only. Due to privacy issues, we are not directly posting the dataset, but temporarily for reviewers at CIKM'21, feel free to download the full TwiBot-20 at www.xxyyzz.com.
+If you are interested in using the dataset, please contact wind_binteng at stu.xjtu.edu.cn to obtain permission to download the dataset for research efforts only. Due to privacy issues, we are not directly posting the dataset, but temporarily for reviewers at CIKM'21, feel free to download the full TwiBot-20 at https://drive.google.com/drive/folders/1ju-bXk6X3n7FNNzv1aXH7-zgqAAnid1N?usp=sharing.
