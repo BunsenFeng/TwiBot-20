@@ -4,7 +4,7 @@
 TwiBot-20 is a comprehensive sample of the Twittersphere and it is representative of the current generation of Twitter bots and genuine users. It is naturally divided into four domains: politics, business, entertainment and sports and each user has semantics, property and neighborhood information. You can find out more about Twibot-20 in the paper 'TwiBot-20: A Novel Twitter Bot Detection Benchmark'. Work in progress.
 
 #### Affiliated Paper
-The affiliated paper of this repository, 'TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark', is currently under review at CIKM'21.
+The affiliated paper of this repository, 'TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark', is accepted at CIKM 2021.
 
 #### TwiBot-20 Sample
 We provide a sample of Twibot-20 in 'TwiBot-20_sample.json'. 
