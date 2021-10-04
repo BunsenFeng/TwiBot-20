@@ -32,5 +32,3 @@ A: We adopt a breadth-first search (BFS) approach to construct TwiBot-20. The tr
 Q: I only found at most 10 followers and 10 followings per user. I thought It was supposed to be all set of followings and followers.
 
 A: We use a controlled-BFS approach to select users in TwiBot-20. Specifically, we expand a user's 10 followers and followings to include in TwiBot-20 for each iteration. As a result, we only include these 10 followers and followings in the dataset as users connected by these edges both exist in TwiBot-20. If you are interested in all follow relationships of a specific user, you can retrieve the information with the user ID.
-
-Q: 
