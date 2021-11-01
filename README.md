@@ -6,6 +6,10 @@ TwiBot-20 is a comprehensive sample of the Twittersphere and it is representativ
 #### Affiliated Paper
 The affiliated paper of this repository, 'TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark', is accepted at CIKM 2021.
 
+```
+a
+```
+
 #### TwiBot-20 Sample
 We provide a sample of Twibot-20 in 'TwiBot-20_sample.json'. 
 
