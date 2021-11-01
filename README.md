@@ -7,7 +7,40 @@ TwiBot-20 is a comprehensive sample of the Twittersphere and it is representativ
 The affiliated paper of this repository, 'TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark', is accepted at CIKM 2021.
 
 ```
-a
+@inproceedings{10.1145/3459637.3482019,
+author = {Feng, Shangbin and Wan, Herun and Wang, Ningnan and Li, Jundong and Luo, Minnan and Luo, Minnan},
+title = {TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark},
+year = {2021},
+isbn = {9781450384469},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3459637.3482019},
+doi = {10.1145/3459637.3482019},
+abstract = {Twitter has become a vital social media platform while an ample amount of malicious
+Twitter bots exist and induce undesirable social effects. Successful Twitter bot detection
+proposals are generally supervised, which rely heavily on large-scale datasets. However,
+existing benchmarks generally suffer from low levels of user diversity, limited user
+information and data scarcity. Therefore, these datasets are not sufficient to train
+and stably benchmark bot detection measures. To alleviate these problems, we present
+TwiBot-20, a massive Twitter bot detection benchmark, which contains 229,573 users,
+33,488,192 tweets, 8,723,736 user property items and 455,958 follow relationships.
+TwiBot-20 covers diversified bots and genuine users to better represent the real-world
+Twittersphere. TwiBot-20 also includes three modals of user information to support
+both binary classification of single users and community-aware approaches. To the
+best of our knowledge, TwiBot-20 is the largest Twitter bot detection benchmark to
+date. We reproduce competitive bot detection methods and conduct a thorough evaluation
+on TwiBot-20 and two other public datasets. Experiment results demonstrate that existing
+bot detection measures fail to match their previously claimed performance on TwiBot-20,
+which suggests that Twitter bot detection remains a challenging task and requires
+further research efforts.},
+booktitle = {Proceedings of the 30th ACM International Conference on Information & Knowledge Management},
+pages = {4485–4494},
+numpages = {10},
+keywords = {benchmarking, twitter bot detection, social media, twitter API},
+location = {Virtual Event, Queensland, Australia},
+series = {CIKM '21}
+}
+
 ```
 
 #### TwiBot-20 Sample
