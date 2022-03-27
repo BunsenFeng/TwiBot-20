@@ -73,3 +73,6 @@ A: We use a controlled-BFS approach to select users in TwiBot-20. Specifically, 
 Q: What is train.json, dev.json, test.json and support.json?
 
 A: These four files contain the training, validation, test and support set of TwiBot-20. As for the support set, "In order to preserve the dense graph structure follow relationship forms, we also provide unsupervised users as the support set of TwiBot-20." (Sec. 4.5) The support set could also enable semi-supervised learning.
+
+#### Comments
+- In order to use the tweet-level method Kudugunta _et al._ on the account-level tasks, we make some changes to the model architecture. 
