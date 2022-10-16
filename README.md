@@ -27,7 +27,7 @@ Each user contains:
 - 'label': the label of this user and '1' means it is a bot while '0' means it is a human. (not included in sample)
 
 #### Full TwiBot-20 Dataset
-Due to privacy issues, we are not directly posting the dataset. If you are interested in using the dataset, please contact wind_binteng at stu.xjtu.edu.cn to obtain permission to download the dataset for research efforts only. 
+Due to privacy issues, we are not directly posting the dataset. If you are interested in using the dataset, please contact shangbin at cs.washington.edu to obtain permission to download the dataset for research efforts only. 
 
 #### FAQ
 Q: How did you create the graph? I mean on what basis have you created the edges (relationships)?
